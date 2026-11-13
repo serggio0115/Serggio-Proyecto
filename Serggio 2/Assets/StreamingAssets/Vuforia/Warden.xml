@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Marcador_2" size="1.000000 1.155052" />
+    <ImageTarget name="Marcador_1" size="1.000000 1.000000" />
+    <ImageTarget name="proyectonuevo" size="1.000000 1.155052" />
+    <ImageTarget name="marcadorpng1" size="1.000000 1.096774" />
+  </Tracking>
+</QCARConfig>
